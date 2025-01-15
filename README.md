@@ -9,12 +9,13 @@ A Python script to generate secure, customizable passwords for personal or profe
 
 ## Usage
 1. Clone the repository:
+
 git clone https://github.com/Mick19j/PassGenerator.git
 
-2. Run the script:
+3. Run the script:
 python password_generator.py
 
-3. Follow the prompts to customize your password.
+4. Follow the prompts to customize your password.
 
 ## Example Output
 Generated Password:
