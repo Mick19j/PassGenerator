@@ -12,7 +12,7 @@ A Python script to generate secure, customizable passwords for personal or profe
 git clone https://github.com/Mick19j/PassGenerator.git
 
 3. Run the script:
-python password_generator.py
+python PassGenerator.py
 
 4. Follow the prompts to customize your password.
 
