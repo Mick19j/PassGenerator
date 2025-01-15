@@ -17,7 +17,11 @@ python password_generator.py
 3. Follow the prompts to customize your password.
 
 ## Example Output
-Your secure password is: F7*as8#2jK
+Generated Password:
+
+-
+F7*as8#2jK
+-
 
 ## Screenshot
 ![image](https://github.com/user-attachments/assets/4d2831e3-1476-4c88-90fe-8fa765281409)
