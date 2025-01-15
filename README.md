@@ -19,6 +19,9 @@ python password_generator.py
 ## Example Output
 Your secure password is: F7*as8#2jK
 
+## Screenshot
+![image](https://github.com/user-attachments/assets/4d2831e3-1476-4c88-90fe-8fa765281409)
+
 ## Disclaimer
 This tool is for educational and personal use only. It is recommended not to store or share generated passwords insecurely.
 
